@@ -73,7 +73,7 @@ olist-sql-analysis/
 - **Monthly average**: ~R$ 550K in revenue
 - **Total items sold**: 112,650+ products over 2 years
 
-![Monthly Revenue Trend](results/02_monthly_revenue.png)
+![Monthly Revenue Trend](02_monthly_revenue.png)
 
 ---
 
@@ -84,7 +84,7 @@ olist-sql-analysis/
 4. **Sports & Leisure** - R$ 988,049 (7,720 orders)
 5. **Computers & Accessories** - R$ 911,954 (6,689 orders)
 
-![Top Categories](results/03_top_categories_by_revenue.png)
+![Top Categories](03_top_categories_by_revenue.png)
 
 ---
 
