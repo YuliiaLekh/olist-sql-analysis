@@ -96,7 +96,7 @@ olist-sql-analysis/
 
 **Finding**: Strong market concentration in Southeast Brazil
 
-![Geographic Analysis](results/04_geographic_analysis.png)
+![Geographic Analysis](04_geographic_analysis.png)
 
 ---
 ### 4. Revenue Growth Trends
@@ -105,7 +105,7 @@ olist-sql-analysis/
 - **Black Friday spike**: 52% growth in Nov 2017
 - **Seasonal pattern**: Growth in Q4, decline in Q1
 
-![Month-over-Month Growth](results/05_revenue_growth.png)
+![Month-over-Month Growth](05_revenue_growth.png)
 
 ---
 ### 5. Customer Lifetime Value Segmentation
@@ -114,7 +114,7 @@ olist-sql-analysis/
 - **Medium Value**: 15,710 customers (avg LTV: R$ 292) - R$ 4.58M total
 - **Low Value**: 73,423 customers (avg LTV: R$ 94) - R$ 6.90M total
 
-![Customer Segmentation by LTV](results/06_customer_segmentation_by_LTV.png)
+![Customer Segmentation by LTV](06_customer_segmentation_by_LTV.png)
 
 ---
 
@@ -126,7 +126,7 @@ olist-sql-analysis/
 
 **Finding**: Strong on-time performance but room for improvement on delayed orders
 
-![Delivery Performance](results/07_delivery_performance.png)
+![Delivery Performance](07_delivery_performance.png)
 
 ---
 
@@ -140,7 +140,7 @@ olist-sql-analysis/
 - **Overall satisfaction**: 80-89% across most categories
 - **High engagement**: Books category shows highest ratings
 
-![Satisfaction by Category](results/08_satisfaction_by_category.png)
+![Satisfaction by Category](08_satisfaction_by_category.png)
 
 ---
 
@@ -154,7 +154,7 @@ olist-sql-analysis/
 
 **Key insight**: Most customers are one-time buyers - **huge opportunity for loyalty programs**
 
-![RFM Segmentation](results/09_rfm_segments.png)
+![RFM Segmentation](09_rfm_segments.png)
 
 ---
 
@@ -165,7 +165,7 @@ olist-sql-analysis/
 
 **Critical finding**: Extremely low repeat purchase rate - loyalty is a major issue
 
-![Cohort Retention](results/10_cohort_retention.png)
+![Cohort Retention](10_cohort_retention.png)
 
 ---
 
